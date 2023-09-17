@@ -35,3 +35,6 @@ I had help from stack overflow and chatgpt
 ![Screenshot of weather app](./images/Screen Shot 2023-09-17 at 4.40.05 PM.png)
 
 ## URL
+
+https://noahsalmon98.github.io/Weather-App/
+
