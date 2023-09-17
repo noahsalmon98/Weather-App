@@ -37,4 +37,4 @@ I had help from stack overflow and chatgpt
 ## URL
 
 https://noahsalmon98.github.io/Weather-App/
-
+https://github.com/noahsalmon98/Weather-App
